@@ -1,0 +1,10 @@
+body {
+  user-select: none;
+  background-image: url("computer_light_neon_surface_50557_1600x900.jpg");
+  background-size: 100% auto;
+}
+
+#global-container {
+	padding-bottom: 160px;
+	background-color: #160217;
+}
